@@ -1,0 +1,46 @@
+.empcont {
+  background-color: white;
+  padding: 3.125em;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 5px 5px 15px -1px rgba(0, 0, 0, 0.75);
+  margin-top: 109px;
+  width: 50%;
+  margin-left: 27%;
+}
+.empcont input,
+select {
+  width: 100%;
+  margin-bottom: 1.25em;
+  height: 50px;
+  border-radius: 5px;
+  border: 1px solid gray;
+  padding: 0.8em;
+  font-family: "Inter", sans-serif;
+  outline: none;
+}
+.empcont textarea {
+  width: 100%;
+  margin-bottom: 1.25em;
+  border-radius: 5px;
+  border: 1px solid gray;
+  padding: 0.8em;
+  font-family: "Inter", sans-serif;
+  outline: none;
+}
+/* .ss {
+  margin-top: 10px;
+} */
+.empsub {
+  width: 27%;
+  padding: 0.625em;
+  border-radius: 5px;
+  color: white;
+  background-color: #639;
+  border: 1px dashed #639;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-left: 39%;
+}

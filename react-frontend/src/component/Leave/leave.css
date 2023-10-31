@@ -1,0 +1,12 @@
+.leeve {
+  background-color: white;
+  padding: 3.125em;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 5px 5px 15px -1px rgba(0, 0, 0, 0.75);
+  margin-top: 72px;
+  width: 66%;
+  margin-left: 18%;
+}
